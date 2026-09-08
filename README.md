@@ -1,169 +1,95 @@
 # Cortexia 🩺
 
-A modern Flutter healthcare application developed as a **Clinical Decision Support System (CDSS)** for pediatric intensive care workflows.
+AI-powered Pediatric ICU Clinical Decision Support System built with Flutter.
 
-Cortexia is designed to help medical teams access patient information faster, manage clinical workflows, monitor patient status, and support clinical decision-making through an intelligent assistant — while keeping the final medical decision with the healthcare professional.
+Cortexia helps healthcare teams manage pediatric patients, monitor critical-care data, organize clinical workflows, and access intelligent decision-support features while keeping final medical judgment with healthcare professionals.
 
 > **Cortexia is a decision-support tool, not a replacement for physicians or clinical judgment.**
 
----
+## Highlights
 
-## ✨ What Cortexia Offers
+- 🧒 Pediatric patient admission and clinical records
+- 📊 Centralized patient dashboards and case history
+- ❤️ Vital-signs monitoring and critical-care workflows
+- 💧 Fluid balance, medications, procedures, and nursing notes
+- 🧪 Diagnostics and laboratory information
+- 🚨 Clinical alerts and patient status monitoring
+- 🤖 AI-assisted clinical support and medical Q&A
+- 👨‍⚕️ Doctor, nursing, and administrative workflows
+- 🔐 Role-based authentication and authorization
+- 🛏️ Bed, room, and scheduling management
+- 📜 Administrative and system activity tracking
 
-### 🏥 Patient & Clinical Management
+## 🏆 Recognition
 
-- 🧒 **Patient Admission** — Register and admit new pediatric patients.
-- 👥 **Patient Management** — Manage and access patient records and clinical information.
-- 📊 **Patient Dashboard** — Centralized overview of the patient's most important clinical data.
-- 📋 **Case History** — Review and manage the patient's medical and clinical history.
-- 🩺 **Physical Examination** — Document and review physical examination findings.
-- 🧪 **Diagnostics & Lab Results** — Access and review diagnostic and laboratory information.
+Cortexia was selected among the **Top 5 Graduation Projects at the Faculty of Computers and Artificial Intelligence, Beni-Suef University** and was featured by **Youm7** for its work on intelligent clinical decision support in intensive-care environments.
 
-### ❤️ Monitoring & Critical Care
-
-- ❤️ **Vital Signs Monitoring** — Track essential patient vital signs and follow changes over time.
-- 💧 **Fluid Balance** — Track and review patient fluid intake and output.
-- 🚨 **Clinical Alerts** — Surface important patient alerts and clinical events.
-- 💊 **Medication Management** — Manage and review patient medications as part of the clinical workflow.
-- 🩹 **Intervention & Procedures** — Document and manage clinical interventions and procedures.
-- 📝 **Nursing Notes** — Record and review nursing observations and clinical notes.
-
-### 🤖 Intelligent Clinical Assistance
-
-- 🤖 **AI Clinical Assistant** — Interactive AI chatbot designed to assist healthcare professionals with clinical questions and information.
-- 🧠 **Clinical Decision Support** — Brings together patient data and clinical information to support healthcare professionals during critical-care workflows.
-
-### 👨‍⚕️ Healthcare Team & Administration
-
-- 👨‍⚕️ **Doctor Workflow** — Dedicated workflows for doctors and clinical staff.
-- 🧑‍⚕️ **Staff Management** — Manage doctors, nurses, and healthcare users.
-- 🛏️ **Bed & Room Management** — Manage ICU beds, rooms, and their availability.
-- 📅 **Scheduling** — Manage schedules and healthcare workflow planning.
-- 🔐 **Authentication & Authorization** — Secure access based on user roles and permissions.
-- 🛡️ **Admin Dashboard** — Administrative overview and management tools.
-- 📜 **Audit Logs** — Track important administrative and system activities.
-
----
-
-## 🏆 Recognition & Press
-
-Cortexia was selected as one of the **Top 5 Graduation Projects at the Faculty of Computers and Artificial Intelligence (FCAI), Beni-Suef University**.
-
-The project was also recognized during the university's graduation project showcase, where the team received honors from the **Governor of Beni-Suef** and the **President of Beni-Suef University**.
-
-Cortexia was also featured in a **Youm7 (اليوم السابع)** article highlighting the team's work on developing an intelligent system to support clinical decision-making inside intensive care units.
-
-📰 **[Read the full Youm7 article](https://www.youm7.com/story/2026/7/10/%D8%B7%D9%84%D8%A7%D8%A8-%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%D9%88%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A8%D9%86%D9%8A-%D8%B3%D9%88%D9%8A%D9%81-%D9%8A%D8%B7%D9%88%D8%B1%D9%88%D9%86-%D9%86%D8%B8%D8%A7%D9%85%D8%A7-%D8%B0%D9%83%D9%8A%D8%A7-%D9%84%D8%AF%D8%B9%D9%85/7476869)**
-
----
+📰 [Read the Youm7 article](https://www.youm7.com/story/2026/7/10/%D8%B7%D9%84%D8%A7%D8%A8-%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%D9%88%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A8%D9%86%D9%8A-%D8%B3%D9%88%D9%8A%D9%81-%D9%8A%D8%B7%D9%88%D8%B1%D9%88%D9%86-%D9%86%D8%B8%D8%A7%D9%85%D8%A7-%D8%B0%D9%83%D9%8A%D8%A7-%D9%84%D8%AF%D8%B9%D9%85/7476869)
 
 ## 📱 Screenshots
-<img width="1536" height="1024" alt="ChatGPT Image Jul 3, 2026, 03_14_43 PM" src="https://github.com/user-attachments/assets/e6b72b8e-17c9-4710-9254-9a863235aa0c" />
 
+<img width="1536" height="1024" alt="Cortexia Overview" src="https://github.com/user-attachments/assets/e6b72b8e-17c9-4710-9254-9a863235aa0c" />
 
-### 1. Onboarding
-
+### Onboarding
 <img width="1920" height="1080" alt="Onboarding" src="https://github.com/user-attachments/assets/e85161c4-033d-4ffa-a693-6967dfd402e0" />
 
-### 2. Admit New Child
-
+### Admit New Child
 <img width="1920" height="1080" alt="Admit New Child" src="https://github.com/user-attachments/assets/1ca513ae-63b2-453a-869a-3e69d3ed9b63" />
 
-### 3. Vital Signs
-
+### Vital Signs
 <img width="1920" height="1080" alt="Vital Signs" src="https://github.com/user-attachments/assets/9b680a5a-356f-45cf-a81d-6cb026f64793" />
 
-### 4. Fluid Balance
-
+### Fluid Balance
 <img width="1920" height="1080" alt="Fluid Balance" src="https://github.com/user-attachments/assets/3a7f6f0b-b498-46b1-88c6-57783e2ce972" />
 
-### 5. Case History
-
+### Case History
 <img width="1920" height="1080" alt="Case History" src="https://github.com/user-attachments/assets/5ffb95c0-310d-4ab0-bf7e-560c75783998" />
 
-### 6. Lab Results
-
+### Lab Results
 <img width="1920" height="1080" alt="Lab Results" src="https://github.com/user-attachments/assets/c4c3b02e-e4cd-4ad9-bae0-05eccd72d9f0" />
 
-### 7. AI Chatbot
-
+### AI Chatbot
 <img width="1920" height="1080" alt="AI Chatbot" src="https://github.com/user-attachments/assets/3f5573ee-def0-4e18-9138-d27f9a88c454" />
 
-### 8. Patient Dashboard
-
+### Patient Dashboard
 <img width="1920" height="1080" alt="Patient Dashboard" src="https://github.com/user-attachments/assets/94d54557-7dca-4a0b-98ce-19b6462e1d57" />
 
-### 8. Web Flutter Dashboard
-<img width="1920" height="1080" alt="Screenshot (835)" src="https://github.com/user-attachments/assets/9c98e54d-968b-420c-8503-10e6b148ce6a" />
-
-
-
----
+### Web Dashboard
+<img width="1920" height="1080" alt="Web Dashboard" src="https://github.com/user-attachments/assets/9c98e54d-968b-420c-8503-10e6b148ce6a" />
 
 ## 🛠️ Tech Stack
 
 - **Flutter & Dart**
-- **Flutter BLoC** — State management
-- **Dio & Retrofit** — Networking and API integration
-- **GetIt** — Dependency injection / service locator
-- **SharedPreferences** — Local preferences and lightweight persistence
-- **Flutter Secure Storage** — Secure local storage
-- **JSON Serializable** — JSON serialization and code generation
-- **Flutter ScreenUtil** — Responsive UI scaling
-- **FL Chart** — Data visualization and clinical charts
-- **Intl** — Internationalization and date/number formatting
-
----
+- **Flutter BLoC**
+- **Dio & Retrofit**
+- **GetIt**
+- **SharedPreferences**
+- **Flutter Secure Storage**
+- **JSON Serializable**
+- **ScreenUtil**
+- **FL Chart**
+- **Intl**
 
 ## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure you have Flutter installed and configured on your machine.
-
-### Installation
 
 ```bash
 git clone https://github.com/KareemEzzat91/cortexia.git
 cd cortexia
 flutter pub get
-```
-
-### Run the application
-
-```bash
 flutter run
 ```
 
----
-
 ## 🧪 Development
-
-Run the following commands before submitting changes:
 
 ```bash
 flutter analyze
 flutter test
 ```
 
-If you modify the UI, update the corresponding screenshots in the README when needed.
-
----
-
 ## 👥 Team
 
-Cortexia was developed as a graduation project by a team of students from the **Faculty of Computers and Artificial Intelligence, Beni-Suef University**.
-
-The project combines modern mobile development, healthcare workflows, and intelligent clinical decision support into a practical solution for intensive care environments.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome. For major changes, please open an issue first to discuss the proposed change.
-
----
+Cortexia was developed as a graduation project by students from the **Faculty of Computers and Artificial Intelligence, Beni-Suef University**.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+MIT License
