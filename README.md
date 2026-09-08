@@ -23,13 +23,13 @@ Cortexia is designed to help medical teams access patient information faster, or
 
 ## 🏆 Recognition & Press
 
-Cortexia was selected as one of the **Top 5 Graduation Projects at the Faculty of Computers and Artificial Intelligence, Beni-Suef University**.
+Cortexia was selected as one of the **Top 5 Graduation Projects at the Faculty of Computers and Artificial Intelligence (FCAI), Beni-Suef University**.
 
-The project was also recognized during the university's graduation project showcase and the team received honors from the **Governor of Beni-Suef** and the **President of Beni-Suef University**.
+The project was also recognized during the university's graduation project showcase, where the team received honors from the **Governor of Beni-Suef** and the **President of Beni-Suef University**.
 
-The project was featured in a **Youm7 (اليوم السابع)** article covering the team's work on developing an intelligent clinical decision-support system for intensive care units. urlRead the full Youm7 articlehttps://www.youm7.com/story/2026/7/10/%D8%B7%D9%84%D8%A7%D8%A8-%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%D9%88%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A8%D9%86%D9%8A-%D8%B3%D9%88%D9%8A%D9%81-%D9%8A%D8%B7%D9%88%D8%B1%D9%88%D9%86-%D9%86%D8%B8%D8%A7%D9%85%D8%A7-%D8%B0%D9%83%D9%8A%D8%A7-%D9%84%D8%AF%D8%B9%D9%85/7476869
+Cortexia was also featured in a **Youm7 (اليوم السابع)** article highlighting the team's work on developing an intelligent system to support clinical decision-making inside intensive care units.
 
-The article highlights Cortexia as a graduation project focused on clinical decision support inside ICUs, patient data management, real-time vital-sign monitoring, fluid balance, and an AI assistant. citeturn394335view0
+📰 **[Read the full Youm7 article](https://www.youm7.com/story/2026/7/10/%D8%B7%D9%84%D8%A7%D8%A8-%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%D9%88%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A8%D9%86%D9%8A-%D8%B3%D9%88%D9%8A%D9%81-%D9%8A%D8%B7%D9%88%D8%B1%D9%88%D9%86-%D9%86%D8%B8%D8%A7%D9%85%D8%A7-%D8%B0%D9%83%D9%8A%D8%A7-%D9%84%D8%AF%D8%B9%D9%85/7476869)**
 
 ---
 
@@ -71,10 +71,16 @@ The article highlights Cortexia as a graduation project focused on clinical deci
 
 ## 🛠️ Tech Stack
 
-- **Flutter**
-- **Dart**
-- **Android**
-- **iOS**
+- **Flutter & Dart**
+- **Flutter BLoC** — State management
+- **Dio & Retrofit** — Networking and API integration
+- **GetIt** — Dependency injection / service locator
+- **SharedPreferences** — Local preferences and lightweight persistence
+- **Flutter Secure Storage** — Secure local storage
+- **JSON Serializable** — JSON serialization and code generation
+- **Flutter ScreenUtil** — Responsive UI scaling
+- **FL Chart** — Data visualization and clinical charts
+- **Intl** — Internationalization and date/number formatting
 
 ---
 
@@ -109,11 +115,15 @@ flutter analyze
 flutter test
 ```
 
+If you modify the UI, update the corresponding screenshots in the README when needed.
+
 ---
 
 ## 👥 Team
 
-Cortexia was developed as a graduation project by a team of students from the **Faculty of Computers and Artificial Intelligence, Beni-Suef University** under academic supervision.
+Cortexia was developed as a graduation project by a team of students from the **Faculty of Computers and Artificial Intelligence, Beni-Suef University**.
+
+The project was developed with the goal of combining modern mobile development, healthcare workflows, and intelligent clinical decision support into a practical solution for intensive care environments.
 
 ---
 
