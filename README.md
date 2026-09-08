@@ -58,6 +58,8 @@ Cortexia was also featured in a **Youm7 (اليوم السابع)** article high
 ---
 
 ## 📱 Screenshots
+<img width="1536" height="1024" alt="ChatGPT Image Jul 3, 2026, 03_14_43 PM" src="https://github.com/user-attachments/assets/e6b72b8e-17c9-4710-9254-9a863235aa0c" />
+
 
 ### 1. Onboarding
 
@@ -90,6 +92,11 @@ Cortexia was also featured in a **Youm7 (اليوم السابع)** article high
 ### 8. Patient Dashboard
 
 <img width="1920" height="1080" alt="Patient Dashboard" src="https://github.com/user-attachments/assets/94d54557-7dca-4a0b-98ce-19b6462e1d57" />
+
+### 8. Web Flutter Dashboard
+<img width="1920" height="1080" alt="Screenshot (835)" src="https://github.com/user-attachments/assets/9c98e54d-968b-420c-8503-10e6b148ce6a" />
+
+
 
 ---
 
