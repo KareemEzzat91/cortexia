@@ -1,21 +1,35 @@
 # Cortexia 🩺
 
-A modern Flutter healthcare application designed to support pediatric clinical workflows through a clean, intuitive, and responsive user interface.
+A modern Flutter healthcare application developed as a **Clinical Decision Support System (CDSS)** for pediatric intensive care workflows.
 
-Cortexia brings essential patient information and clinical workflows into one streamlined experience, including patient admission, vital signs, fluid balance, case history, laboratory results, and an AI-powered chatbot.
+Cortexia is designed to help medical teams access patient information faster, organize critical clinical data, monitor vital signs, and support clinical decision-making through an intelligent assistant — while keeping the final medical decision with the healthcare professional.
+
+> **Cortexia is a decision-support tool, not a replacement for physicians or clinical judgment.**
 
 ---
 
-## ✨ Features
+## ✨ What Cortexia Offers
 
-- 🧒 **Admit New Child** — Add and manage pediatric patient information.
-- 📊 **Patient Dashboard** — Centralized overview of the patient's clinical data.
-- ❤️ **Vital Signs** — Review and monitor essential patient vital signs.
-- 💧 **Fluid Balance** — Track patient fluid intake and output.
-- 📋 **Case History** — Access and review the patient's medical history.
-- 🧪 **Lab Results** — View and review laboratory test results.
-- 🤖 **AI Chatbot** — Interactive chatbot experience for clinical assistance.
-- 📱 **Responsive UI** — Clean and adaptive interface built with Flutter.
+- 🧒 **Admit New Child** — Register and manage pediatric patient information.
+- 📊 **Patient Dashboard** — Centralized view of the patient's most important clinical data.
+- ❤️ **Vital Signs** — Monitor essential vital signs and follow patient status.
+- 💧 **Fluid Balance** — Track fluid intake and output.
+- 📋 **Case History** — Review the patient's medical history and clinical information.
+- 🧪 **Lab Results** — Access and review laboratory results.
+- 🤖 **AI Clinical Assistant** — Intelligent chatbot designed to assist healthcare professionals with medical questions.
+- 🚨 **Clinical Decision Support** — Supports critical-care workflows and helps surface relevant patient information quickly.
+
+---
+
+## 🏆 Recognition & Press
+
+Cortexia was selected as one of the **Top 5 Graduation Projects at the Faculty of Computers and Artificial Intelligence, Beni-Suef University**.
+
+The project was also recognized during the university's graduation project showcase and the team received honors from the **Governor of Beni-Suef** and the **President of Beni-Suef University**.
+
+The project was featured in a **Youm7 (اليوم السابع)** article covering the team's work on developing an intelligent clinical decision-support system for intensive care units. urlRead the full Youm7 articlehttps://www.youm7.com/story/2026/7/10/%D8%B7%D9%84%D8%A7%D8%A8-%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%D9%88%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A8%D9%86%D9%8A-%D8%B3%D9%88%D9%8A%D9%81-%D9%8A%D8%B7%D9%88%D8%B1%D9%88%D9%86-%D9%86%D8%B8%D8%A7%D9%85%D8%A7-%D8%B0%D9%83%D9%8A%D8%A7-%D9%84%D8%AF%D8%B9%D9%85/7476869
+
+The article highlights Cortexia as a graduation project focused on clinical decision support inside ICUs, patient data management, real-time vital-sign monitoring, fluid balance, and an AI assistant. citeturn394335view0
 
 ---
 
@@ -95,7 +109,11 @@ flutter analyze
 flutter test
 ```
 
-For UI changes, update the corresponding screenshots in the README when needed.
+---
+
+## 👥 Team
+
+Cortexia was developed as a graduation project by a team of students from the **Faculty of Computers and Artificial Intelligence, Beni-Suef University** under academic supervision.
 
 ---
 
