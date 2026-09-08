@@ -2,7 +2,7 @@
 
 A modern Flutter healthcare application developed as a **Clinical Decision Support System (CDSS)** for pediatric intensive care workflows.
 
-Cortexia is designed to help medical teams access patient information faster, organize critical clinical data, monitor vital signs, and support clinical decision-making through an intelligent assistant — while keeping the final medical decision with the healthcare professional.
+Cortexia is designed to help medical teams access patient information faster, manage clinical workflows, monitor patient status, and support clinical decision-making through an intelligent assistant — while keeping the final medical decision with the healthcare professional.
 
 > **Cortexia is a decision-support tool, not a replacement for physicians or clinical judgment.**
 
@@ -10,14 +10,38 @@ Cortexia is designed to help medical teams access patient information faster, or
 
 ## ✨ What Cortexia Offers
 
-- 🧒 **Admit New Child** — Register and manage pediatric patient information.
-- 📊 **Patient Dashboard** — Centralized view of the patient's most important clinical data.
-- ❤️ **Vital Signs** — Monitor essential vital signs and follow patient status.
-- 💧 **Fluid Balance** — Track fluid intake and output.
-- 📋 **Case History** — Review the patient's medical history and clinical information.
-- 🧪 **Lab Results** — Access and review laboratory results.
-- 🤖 **AI Clinical Assistant** — Intelligent chatbot designed to assist healthcare professionals with medical questions.
-- 🚨 **Clinical Decision Support** — Supports critical-care workflows and helps surface relevant patient information quickly.
+### 🏥 Patient & Clinical Management
+
+- 🧒 **Patient Admission** — Register and admit new pediatric patients.
+- 👥 **Patient Management** — Manage and access patient records and clinical information.
+- 📊 **Patient Dashboard** — Centralized overview of the patient's most important clinical data.
+- 📋 **Case History** — Review and manage the patient's medical and clinical history.
+- 🩺 **Physical Examination** — Document and review physical examination findings.
+- 🧪 **Diagnostics & Lab Results** — Access and review diagnostic and laboratory information.
+
+### ❤️ Monitoring & Critical Care
+
+- ❤️ **Vital Signs Monitoring** — Track essential patient vital signs and follow changes over time.
+- 💧 **Fluid Balance** — Track and review patient fluid intake and output.
+- 🚨 **Clinical Alerts** — Surface important patient alerts and clinical events.
+- 💊 **Medication Management** — Manage and review patient medications as part of the clinical workflow.
+- 🩹 **Intervention & Procedures** — Document and manage clinical interventions and procedures.
+- 📝 **Nursing Notes** — Record and review nursing observations and clinical notes.
+
+### 🤖 Intelligent Clinical Assistance
+
+- 🤖 **AI Clinical Assistant** — Interactive AI chatbot designed to assist healthcare professionals with clinical questions and information.
+- 🧠 **Clinical Decision Support** — Brings together patient data and clinical information to support healthcare professionals during critical-care workflows.
+
+### 👨‍⚕️ Healthcare Team & Administration
+
+- 👨‍⚕️ **Doctor Workflow** — Dedicated workflows for doctors and clinical staff.
+- 🧑‍⚕️ **Staff Management** — Manage doctors, nurses, and healthcare users.
+- 🛏️ **Bed & Room Management** — Manage ICU beds, rooms, and their availability.
+- 📅 **Scheduling** — Manage schedules and healthcare workflow planning.
+- 🔐 **Authentication & Authorization** — Secure access based on user roles and permissions.
+- 🛡️ **Admin Dashboard** — Administrative overview and management tools.
+- 📜 **Audit Logs** — Track important administrative and system activities.
 
 ---
 
@@ -123,7 +147,7 @@ If you modify the UI, update the corresponding screenshots in the README when ne
 
 Cortexia was developed as a graduation project by a team of students from the **Faculty of Computers and Artificial Intelligence, Beni-Suef University**.
 
-The project was developed with the goal of combining modern mobile development, healthcare workflows, and intelligent clinical decision support into a practical solution for intensive care environments.
+The project combines modern mobile development, healthcare workflows, and intelligent clinical decision support into a practical solution for intensive care environments.
 
 ---
 
