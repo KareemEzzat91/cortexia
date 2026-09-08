@@ -1,65 +1,110 @@
-# cortexia
+# Cortexia 🩺
 
-A beautiful Flutter app — UI-first, designed for rapid iteration.
+A modern Flutter healthcare application designed to support pediatric clinical workflows through a clean, intuitive, and responsive user interface.
 
-![App preview](docs/screenshots/screen1.png)
+Cortexia brings essential patient information and clinical workflows into one streamlined experience, including patient admission, vital signs, fluid balance, case history, laboratory results, and an AI-powered chatbot.
 
 ---
 
-## Overview
+## ✨ Features
 
-Cortexia is a Flutter application scaffold. This README contains usage instructions, development tips, and placeholders for screenshots that you can upload to the repository so the README shows your app's visual identity.
+- 🧒 **Admit New Child** — Add and manage pediatric patient information.
+- 📊 **Patient Dashboard** — Centralized overview of the patient's clinical data.
+- ❤️ **Vital Signs** — Review and monitor essential patient vital signs.
+- 💧 **Fluid Balance** — Track patient fluid intake and output.
+- 📋 **Case History** — Access and review the patient's medical history.
+- 🧪 **Lab Results** — View and review laboratory test results.
+- 🤖 **AI Chatbot** — Interactive chatbot experience for clinical assistance.
+- 📱 **Responsive UI** — Clean and adaptive interface built with Flutter.
 
-## Features
+---
 
-- Clean, responsive UI built with Flutter
-- Fast hot-reload workflow
-- Ready for Android & iOS
-- Screenshots and showcase section (update images in `docs/screenshots/`)
+## 📱 Screenshots
 
-## Screenshots
+### 1. Onboarding
 
-Add your screenshots to the `docs/screenshots/` folder and name them `screen1.png`, `screen2.png`, `screen3.png` (or use .jpg/.webp). Once uploaded, this README will display them automatically.
+<img width="1920" height="1080" alt="Onboarding" src="https://github.com/user-attachments/assets/e85161c4-033d-4ffa-a693-6967dfd402e0" />
 
-![Screenshot 1](docs/screenshots/screen1.png)
+### 2. Admit New Child
 
-![Screenshot 2](docs/screenshots/screen2.png)
+<img width="1920" height="1080" alt="Admit New Child" src="https://github.com/user-attachments/assets/1ca513ae-63b2-453a-869a-3e69d3ed9b63" />
 
-![Screenshot 3](docs/screenshots/screen3.png)
+### 3. Vital Signs
 
-Tip: Use a GIF for interactive previews and name it `demo.gif` in the same folder.
+<img width="1920" height="1080" alt="Vital Signs" src="https://github.com/user-attachments/assets/9b680a5a-356f-45cf-a81d-6cb026f64793" />
 
-## Quick Start
+### 4. Fluid Balance
 
-1. Clone the repo
+<img width="1920" height="1080" alt="Fluid Balance" src="https://github.com/user-attachments/assets/3a7f6f0b-b498-46b1-88c6-57783e2ce972" />
 
-   git clone https://github.com/KareemEzzat91/cortexia.git
-   cd cortexia
+### 5. Case History
 
-2. Install dependencies
+<img width="1920" height="1080" alt="Case History" src="https://github.com/user-attachments/assets/5ffb95c0-310d-4ab0-bf7e-560c75783998" />
 
-   flutter pub get
+### 6. Lab Results
 
-3. Run on an emulator or device
+<img width="1920" height="1080" alt="Lab Results" src="https://github.com/user-attachments/assets/c4c3b02e-e4cd-4ad9-bae0-05eccd72d9f0" />
 
-   flutter run
+### 7. AI Chatbot
 
-4. Create screenshots
+<img width="1920" height="1080" alt="AI Chatbot" src="https://github.com/user-attachments/assets/3f5573ee-def0-4e18-9138-d27f9a88c454" />
 
-   - On Android: Use `adb exec-out screencap -p > screen1.png`
-   - On iOS Simulator: Use `xcrun simctl io booted screenshot screen1.png`
+### 8. Patient Dashboard
 
-5. Upload screenshots to `docs/screenshots/` using the GitHub web UI or add them and push via git.
+<img width="1920" height="1080" alt="Patient Dashboard" src="https://github.com/user-attachments/assets/94d54557-7dca-4a0b-98ce-19b6462e1d57" />
 
-## Development
+---
 
-- Use `flutter analyze` and `flutter test` as part of CI.
-- Keep UI assets optimized (prefer webp for smaller size).
+## 🛠️ Tech Stack
 
-## Contributing
+- **Flutter**
+- **Dart**
+- **Android**
+- **iOS**
 
-PRs welcome — please open issues for major changes. Keep commits small and add a screenshot if your change affects UI.
+---
 
-## License
+## 🚀 Getting Started
 
-MIT
+### Prerequisites
+
+Make sure you have Flutter installed and configured on your machine.
+
+### Installation
+
+```bash
+git clone https://github.com/KareemEzzat91/cortexia.git
+cd cortexia
+flutter pub get
+```
+
+### Run the application
+
+```bash
+flutter run
+```
+
+---
+
+## 🧪 Development
+
+Run the following commands before submitting changes:
+
+```bash
+flutter analyze
+flutter test
+```
+
+For UI changes, update the corresponding screenshots in the README when needed.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome. For major changes, please open an issue first to discuss the proposed change.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
